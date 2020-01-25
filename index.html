@@ -8,24 +8,25 @@
     <title>hsn-dev</title>
 </head>
 <body>
-    <section class="bg-video">
-        <div class="inner">
-        <div class="clock">
-          <h1 class="hour"></h1>
-          <h1>:</h1>
-          <h1 class="minutes"></h1>
-          <h1>:</h1>
-          <h1 class="seconds"></h1>
-          <h2 class="time-of-day"></h2>
+    <div class="container">
+        <input type="radio" class="radio" name="progress" value="five" id="five">
+        <label for="five" class="label">5%</label>
+      
+        <input type="radio" class="radio" name="progress" value="twentyfive" id="twentyfive" checked>
+        <label for="twentyfive" class="label">25%</label>
+      
+        <input type="radio" class="radio" name="progress" value="fifty" id="fifty">
+        <label for="fifty" class="label">50%</label>
+      
+        <input type="radio" class="radio" name="progress" value="seventyfive" id="seventyfive">
+        <label for="seventyfive" class="label">75%</label>
+      
+        <input type="radio" class="radio" name="progress" value="onehundred" id="onehundred">
+        <label for="onehundred" class="label">100%</label>
+      
+        <div class="progress">
+          <div class="progress-bar"></div>
         </div>
-        </div>
-        <div id="video-viewport">
-            <video width="1920" height="1280" autoplay muted loop>
-                <source src="https://static.videezy.com/system/resources/previews/000/002/647/original/KLCC-timelapse.mp4" type="video/mp4" />
-            </video>
-        </div>
-    </section> 
-    <script src="jquery-3.4.1.min.js"></script>
-    <script src="script.js"></script>
+    </div>      
 </body>
 </html>
