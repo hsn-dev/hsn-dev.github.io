@@ -1,6 +1,7 @@
 # General Settings
 title = "RyanCV - CV Resume & vCard Hugo Theme"
-baseURL = "https://bslthemes.com/" #YOUR SITE URL
+baseURL = "https://hsn-dev.github.io/"
+publishDir = "docs"
 languageCode = "en-us"
 theme = "ryan"
 resourceDir = "resources"
