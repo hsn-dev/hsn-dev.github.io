@@ -8,34 +8,39 @@
 ### param "buttons" - Buttons, icon class you can find here https://ionicons.com/v4/
 
 main:
-  bgimage: "images/bg.jpg"
-  photo: ""
-  name: "Ryan Adlard"
+  bgimage: "images/bg2.jpeg"
+  photo: "images/bw-square.jpeg"
+  name: "Hassan Farooq"
   typed:
-    - text: "Web Designer"
-    - text: "Blogger"
+    - text: "Software Engineer"
+    - text: "Fullstack Developer"
     - text: "Freelancer"
-    - text: "Photographer"
+    
   social:
-    - title: "Dribbble"
-      icon: "fab fa-dribbble"
-      url: "https://dribbble.com/"
-    - title: "Twitter"
-      icon: "fab fa-twitter"
-      url: "https://twitter.com/"
+    - title: "Facebook"
+      icon: "fab fa-facebook"
+      url: "https://www.facebook.com/hsnfrq99"
+
+    - title: "Instagram"
+      icon: "fab fa-instagram"
+      url: "https://www.instagram.com/haxan.dev"
+
     - title: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/"
-    - title: "Spotify"
-      icon: "fab fa-spotify"
-      url: "https://www.spotify.com/"
-    - title: "Stackoverflow"
-      icon: "fab fa-stack-overflow"
-      url: "https://stackoverflow.com/"
+      url: "https://github.com/hsn-dev"
+
+    - title: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/hasan-dev"
+
+    - title: "Skype"
+      icon: "fab fa-skype"
+      url: "https://join.skype.com/invite/sU5eJr07LKdF"
+
   buttons:
     - title: "Download CV"
       icon: "ion-ios-cloud-download"
-      url: "/images/Resume-Template.pdf"
+      url: "/attachments/hassan_resume.pdf"
     - title: "Contact Me"
       icon: "ion-paper-airplane"
-      url: "mailto:bslthemes@gmail.com"
+      url: "mailto:hsnfrq.47@gmail.com"

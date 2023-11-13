@@ -8,21 +8,28 @@ about:
   title: "About Me"
   text: "
         <p>
-          <strong>Hello! I’m Ryan Adlard.</strong><br> Web designer from USA, California. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique.
+          <strong>Hello! I’m Hassan Farooq.</strong><br>
+          As a tech enthusiast with a thirst for knowledge, I am naturally drawn to the world of IT. The fast-paced and ever-evolving landscape of technology is where I thrive, and I relish the opportunity to tackle new challenges and develop innovative solutions.
         </p>
         "
   list:
-    - label: "Age"
-      value: "24"
+    - label: "Date of Birth"
+      value: "January 01, 2002"
+
+    - label: "Experience"
+      value: "2+ years"
 
     - label: "Residence"
-      value: "USA"
+      value: "Lahore, Pakistan"
 
     - label: "Freelance"
       value: "Available"
 
-    - label: "Address"
-      value: "California, USA"
+    - label: "Email"
+      value: "hsnfrq.47@gmail.com"
+
+    - label: "Phone"
+      value: "+923134743499"
 
 ### Services [ services ]
 services:
@@ -30,22 +37,22 @@ services:
   items:
     - icon: "ion-code"
       name: "Web Development"
-      text: "Modern and mobile-ready website that will help you reach all of your marketing."
+      text: "Designing and developing websites or web applications that will help you meet the specific needs."
       h_line: 1
 
-    - icon: "ion-music-note"
-      name: "Music Writing"
-      text: "Music copying, transcription, arranging and composition services."
+    - icon: "ion-bag"
+      name: "Ecommerce Development"
+      text: "Building and maintaining online stores for clients using platforms like Shopify, WooCommerce"
       h_line: 1
 
-    - icon: "ion-speakerphone"
-      name: "Advetising"
-      text: "Advertising services include television, radio, print, mail and web."
+    - icon: "ion-android-calendar"
+      name: "Technical Consultation"
+      text: "Providing expertise in a specific field through online consulting services."
       h_line: 0
 
-    - icon: "ion-ios-game-controller-b"
-      name: "Game Development"
-      text: "Developing memorable and unique mobile android, ios games."
+    - icon: "ion-android-cloud-outline"
+      name: "Cloud Computing Services"
+      text: "Leveraging cloud platforms especially AWS to deploy, manage, and scale applications."
       h_line: 0
 
 ### Pricing [ pricing ]
@@ -170,46 +177,54 @@ resume:
     title: "Experience"
     icon: "ion-briefcase"
     items:
-      - year: "2013 - Present"
-        role: "Art Director"
-        company: "Facebook Inc."
-        text: "Collaborate with creative and development teams on the execution of ideas."
+      - year: "10.2022 - Present"
+        role: "Software Engineer"
+        company: "Dubizzle Labs"
+        text: ""
         active: 1
         h_line: 1
 
-      - year: "2011 - 2012"
-        role: "Front-end Developer"
-        company: "Google Inc."
-        text: "Monitored technical aspects of the front-end delivery for several projects."
+      - year: "08.2022 - 10.2022"
+        role: "Software Engineer"
+        company: "Bitsclan IT Solutions"
+        text: ""
         active: 0
         h_line: 1
 
-      - year: "2009 - 2010"
-        role: "Senior Developer"
-        company: "Abc Inc."
-        text: "Optimize website performance using latest technology."
+      - year: "12.2021 - 07.2022"
+        role: "PHP/Laravel Developer"
+        company: "Digital Window Information Technology"
+        text: ""
         active: 0
         h_line: 0
+
+      - year: "08.2022 - 10.2020"
+        role: "Web Developer"
+        company: "Cybus Solutions Ltd"
+        text: ""
+        active: 0
+        h_line: 0
+
   education:
     title: "Education"
     icon: "ion-university"
     items:
-      - year: "2006 - 2008"
-        institution: "Art University"
-        city: "New York"
-        text: "Bachelor's Degree in Computer Science ABC Technical Institute, Jefferson, Missouri"
+      - year: "2018 - 2022"
+        institution: "Government College University"
+        city: "Lahore, Pakistan"
+        text: "Bachelors in Computer Science (BSCS)"
         h_line: 1
 
-      - year: "2005 - 2006"
-        institution: "Programming Course"
-        city: "Paris"
-        text: "Coursework - Git, WordPress, Javascript, iOS, Android."
+      - year: "2016 - 2018"
+        institution: "Punjab Group of Colleges"
+        city: "Lahore, Pakistan"
+        text: "Intermediate in Computer Sciences (ICS)"
         h_line: 1
 
-      - year: "2004 - 2005"
-        institution: "Web Design Course"
-        city: "London"
-        text: "Converted Photoshop layouts to web pages using HTML, CSS, and JavaScript"
+      - year: "2014 - 2016"
+        institution: "Govt. Model High School"
+        city: "Lahore, Pakistan"
+        text: "Matriculation (CS)"
         h_line: 0
 
 ### Skills [ skills ]
@@ -217,80 +232,98 @@ skills:
   title: "My Skills"
   columns:
     - type: "default" #skills progress type - default, dotted, circles, list
-      title: "Design"
+      title: "Development"
       icon: "ion-easel"
       items:
         - label: "Web Design"
-          value: "90" #0-100 progress in %
+          value: "75" #0-100 progress in %
 
-        - label: "Write Music"
+        - label: "SPA (React & Vue)"
           value: "65" #0-100 progress in %
 
-        - label: "Photoshop"
+        - label: "Wordpress"
           value: "75" #0-100 progress in %
 
-        - label: "Graphic Design"
-          value: "85" #0-100 progress in %
-
-    - type: "dotted" #skills progress type - default, dotted, circles, list
-      title: "Languages"
-      icon: "ion-flag"
-      items:
-        - label: "English"
-          value: "90" #0-100 progress in %
-
-        - label: "German"
-          value: "60" #0-100 progress in %
-
-        - label: "Italian"
-          value: "30" #0-100 progress in %
-
-        - label: "French"
+        - label: "Shopify"
           value: "70" #0-100 progress in %
 
-    - type: "circles" #skills progress type - default, dotted, circles, list
-      title: "Coding"
-      icon: "ion-code"
-      items:
-        - label: "WordPress"
-          value: "90" #0-100 progress in %
-
-        - label: "PHP / MYSQL"
-          value: "75" #0-100 progress in %
-
-        - label: "Angular / JavaScript"
+        - label: "PHP/Laravel"
           value: "85" #0-100 progress in %
 
-        - label: "HTML / CSS"
-          value: "95" #0-100 progress in %
+        - label: "Ruby on Rails"
+          value: "80" #0-100 progress in %
 
-    - type: "list" #skills progress type - default, dotted, circles, list
-      title: "Knowledge"
-      icon: "ion-android-list"
+        - label: "Python Scripting"
+          value: "70" #0-100 progress in %
+
+    - type: "dotted" #skills progress type - default, dotted, circles, list
+      title: "IT Skills"
+      icon: "ion-flag"
       items:
-        - label: "Website hosting"
-          value: "" #0-100 progress in %
+        - label: "Linux"
+          value: "80" #0-100 progress in %
 
-        - label: "iOS and android apps"
-          value: "" #0-100 progress in %
+        - label: "Git"
+          value: "80" #0-100 progress in %
 
-        - label: "Create logo design"
-          value: "" #0-100 progress in %
+        - label: "Docker"
+          value: "60" #0-100 progress in %
 
-        - label: "Design for print"
-          value: "" #0-100 progress in %
+        - label: "AWS"
+          value: "80" #0-100 progress in %
 
-        - label: "Modern and mobile-ready"
-          value: "" #0-100 progress in %
+        - label: "New Relic"
+          value: "60" #0-100 progress in %
 
-        - label: "Advertising services include"
-          value: "" #0-100 progress in %
+        - label: "Elasticsearch"
+          value: "60" #0-100 progress in %
 
-        - label: "Graphics and animations"
-          value: "" #0-100 progress in %
+        - label: "Website Hosting"
+          value: "90" #0-100 progress in %
 
-        - label: "Search engine marketing"
-          value: "" #0-100 progress in %
+    # - type: "circles" #skills progress type - default, dotted, circles, list
+    #   title: "Coding"
+    #   icon: "ion-code"
+    #   items:
+    #     - label: "WordPress"
+    #       value: "90" #0-100 progress in %
+
+    #     - label: "PHP / MYSQL"
+    #       value: "75" #0-100 progress in %
+
+    #     - label: "Angular / JavaScript"
+    #       value: "85" #0-100 progress in %
+
+    #     - label: "HTML / CSS"
+    #       value: "95" #0-100 progress in %
+
+    # - type: "list" #skills progress type - default, dotted, circles, list
+    #   title: "Knowledge"
+    #   icon: "ion-android-list"
+    #   items:
+    #     - label: "Website hosting"
+    #       value: "" #0-100 progress in %
+
+    #     - label: "iOS and android apps"
+    #       value: "" #0-100 progress in %
+
+    #     - label: "Create logo design"
+    #       value: "" #0-100 progress in %
+
+    #     - label: "Design for print"
+    #       value: "" #0-100 progress in %
+
+    #     - label: "Modern and mobile-ready"
+    #       value: "" #0-100 progress in %
+
+    #     - label: "Advertising services include"
+    #       value: "" #0-100 progress in %
+
+    #     - label: "Graphics and animations"
+    #       value: "" #0-100 progress in %
+
+    #     - label: "Search engine marketing"
+    #       value: "" #0-100 progress in %
 
 ### Portfolio [ portfolio ]
 portfolio:
@@ -305,13 +338,13 @@ contacts_info:
   title: "Get in Touch"
   list:
     - label: "Address"
-      value: "California, USA"
+      value: "Lahore, Pakistan"
 
     - label: "Email"
-      value: "adlard@example.com"
+      value: "hsnfrq.47@gmail.com"
 
     - label: "Phone"
-      value: "+123 654 78900"
+      value: "+923134743499"
 
     - label: "Freelance"
       value: "Available"

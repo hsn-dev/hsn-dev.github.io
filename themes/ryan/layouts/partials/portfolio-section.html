@@ -8,7 +8,7 @@
 	<div class="title">{{ .title }}</div>
 	{{ end }}
 
-	<div class="filter-menu filter-button-group">
+	<!-- <div class="filter-menu filter-button-group">
     <div class="f_btn active">
 			<label><input type="radio" name="fl_radio" value="grid-item" />{{ i18n "all" }}</label>
 		</div>
@@ -18,7 +18,7 @@
 			<label><input type="radio" name="fl_radio" value="{{ .slug }}" />{{ .name }}</label>
 		</div>
 		{{ end }}
-	</div>
+	</div> -->
 
 	<div class="row grid-items border-line-v">
 		{{ range first $portfolio.homeNumOfItems (where $.Site.RegularPages "Section" "portfolio") }}
