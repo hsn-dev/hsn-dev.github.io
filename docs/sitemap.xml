@@ -102,11 +102,55 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/portfolio/business-card-design/</loc>
+    <loc>https://hsn-dev.github.io/portfolio/alliance-advising/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://hsn-dev.github.io/portfolio/bestcampus/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://hsn-dev.github.io/portfolio/blueskyocean/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://hsn-dev.github.io/portfolio/british-education/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://hsn-dev.github.io/portfolio/humwell/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://hsn-dev.github.io/portfolio/jarvis/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://hsn-dev.github.io/portfolio/optix/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://hsn-dev.github.io/portfolio/planstreet/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://hsn-dev.github.io/portfolio/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://hsn-dev.github.io/portfolio/shopzy-pos/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://hsn-dev.github.io/portfolio/wefaq/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://hsn-dev.github.io/portfolio/widoxsports/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://hsn-dev.github.io/portfolio/zameen/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

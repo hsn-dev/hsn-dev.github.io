@@ -128,17 +128,11 @@ out = "fadeOut" #ANIMATION OUT: [ rotateOutUpLeft, rollOut, jackOutTheBox, fadeO
 [params.portfolio]
 homeNumOfItems = 12
 [[params.portfolio.filters]]
-name = "Photo"
-slug = "photo"
+name = "CMS"
+slug = "wordpress"
 [[params.portfolio.filters]]
-name = "Video"
-slug = "video"
-[[params.portfolio.filters]]
-name = "Music"
-slug = "music"
-[[params.portfolio.filters]]
-name = "Design"
-slug = "design"
+name = "Development"
+slug = "development"
 
 # Sitemap Settings
 [sitemap]

@@ -13,8 +13,8 @@ about:
         </p>
         "
   list:
-    - label: "Date of Birth"
-      value: "January 01, 2002"
+    - label: "Age"
+      value: "24"
 
     - label: "Experience"
       value: "2+ years"
@@ -42,7 +42,7 @@ services:
 
     - icon: "ion-bag"
       name: "Ecommerce Development"
-      text: "Building and maintaining online stores for clients using platforms like Shopify, WooCommerce"
+      text: "Building and maintaining online stores for clients using platforms like WooCommerce"
       h_line: 1
 
     - icon: "ion-android-calendar"
@@ -244,8 +244,8 @@ skills:
         - label: "Wordpress"
           value: "75" #0-100 progress in %
 
-        - label: "Shopify"
-          value: "70" #0-100 progress in %
+        # - label: "Shopify"
+          # value: "70" #0-100 progress in %
 
         - label: "PHP/Laravel"
           value: "85" #0-100 progress in %

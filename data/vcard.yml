@@ -40,7 +40,7 @@ main:
   buttons:
     - title: "Download CV"
       icon: "ion-ios-cloud-download"
-      url: "/attachments/hassan_resume.pdf"
+      url: "/attachments/hasan_cv.pdf"
     - title: "Contact Me"
       icon: "ion-paper-airplane"
       url: "mailto:hsnfrq.47@gmail.com"
