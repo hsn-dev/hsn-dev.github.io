@@ -3,7 +3,7 @@ title: Zameen.com
 category: Ruby on Rails
 category_slug: development
 source: content
-image: portfolio/zameen.png
+image: portfolio/zameen.jpg
 button_url: https://www.zameen.com/
 ---
 

@@ -3,8 +3,8 @@ title: Planstreet
 category: Wordpress
 category_slug: wordpress
 source: content
-image: portfolio/planstreet.png
+image: portfolio/planstreet.jpg
 button_url: https://planstreetinc.com/
 ---
 
-![Full Page View](portfolio/planstreet-fullpage.png)
+![Full Page View](portfolio/planstreet-fullpage.jpg)

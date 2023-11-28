@@ -3,7 +3,7 @@ title: Jarvis CRM
 category: Ruby on Rails
 category_slug: development
 source: content
-image: portfolio/jarvis.png
+image: portfolio/jarvis.jpg
 button_url: https://staging-bayut-sa.jarvisempg.com/admin/login
 ---
 
