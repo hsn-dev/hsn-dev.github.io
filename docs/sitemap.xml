@@ -2,155 +2,211 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hsn-dev.github.io/test/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-07-02T17:02:58+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/blog/</loc>
+    <loc>http://localhost:1313/test/</loc>
+    <lastmod>2022-07-02T17:02:58+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2020-09-16T12:49:27+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2020-09-16T12:49:27+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-09-16T12:49:27+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/tags/</loc>
+    <loc>http://localhost:1313/categories/travel/</loc>
     <lastmod>2020-09-16T12:49:27+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/categories/travel/</loc>
+    <loc>http://localhost:1313/blog/ui-ux-conference-at-lviv-2022/</loc>
     <lastmod>2020-09-16T12:49:27+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/blog/ui-ux-conference-at-lviv-2022/</loc>
+    <loc>http://localhost:1313/tags/website/</loc>
     <lastmod>2020-09-16T12:49:27+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/tags/website/</loc>
-    <lastmod>2020-09-16T12:49:27+06:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://hsn-dev.github.io/categories/documentation/</loc>
+    <loc>http://localhost:1313/categories/documentation/</loc>
     <lastmod>2020-07-15T12:49:27+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/tags/fun/</loc>
+    <loc>http://localhost:1313/tags/fun/</loc>
     <lastmod>2020-07-15T12:49:27+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/blog/how-to-become-acreative-designer/</loc>
+    <loc>http://localhost:1313/blog/how-to-become-acreative-designer/</loc>
     <lastmod>2020-07-15T12:49:27+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/blog/designers-thoughts-about-mobile-ui/</loc>
+    <loc>http://localhost:1313/blog/designers-thoughts-about-mobile-ui/</loc>
     <lastmod>2020-07-14T12:49:27+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/tags/mobile/</loc>
+    <loc>http://localhost:1313/tags/mobile/</loc>
     <lastmod>2020-07-14T12:49:27+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/blog/designer-conference-at-florida-2020/</loc>
+    <loc>http://localhost:1313/blog/designer-conference-at-florida-2020/</loc>
     <lastmod>2020-07-13T13:06:26+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/blog/new-designers-limitations/</loc>
+    <loc>http://localhost:1313/blog/new-designers-limitations/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/blog/things-you-must-know-as-a-designer/</loc>
+    <loc>http://localhost:1313/blog/things-you-must-know-as-a-designer/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/blog/world-most-famous-app-developers-and-designers/</loc>
+    <loc>http://localhost:1313/blog/world-most-famous-app-developers-and-designers/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/blog/you-must-know-this-before-becoming-a-designer/</loc>
+    <loc>http://localhost:1313/blog/you-must-know-this-before-becoming-a-designer/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/blog/benjamin-franklins-thoughts-about-new-designers/</loc>
+    <loc>http://localhost:1313/blog/benjamin-franklins-thoughts-about-new-designers/</loc>
     <lastmod>2020-07-12T12:49:27+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/categories/development/</loc>
+    <loc>http://localhost:1313/categories/development/</loc>
     <lastmod>2020-07-12T12:49:27+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/portfolio/alliance-advising/</loc>
+    <loc>http://localhost:1313/portfolio/adepsi/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/portfolio/bestcampus/</loc>
+    <loc>http://localhost:1313/portfolio/affinity/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/portfolio/blueskyocean/</loc>
+    <loc>http://localhost:1313/portfolio/alliance-advising/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/portfolio/british-education/</loc>
+    <loc>http://localhost:1313/portfolio/amanoon/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/portfolio/humwell/</loc>
+    <loc>http://localhost:1313/portfolio/arkanalhadid/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/portfolio/jarvis/</loc>
+    <loc>http://localhost:1313/portfolio/bestcampus/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/portfolio/optix/</loc>
+    <loc>http://localhost:1313/portfolio/blueskyocean/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/portfolio/planstreet/</loc>
+    <loc>http://localhost:1313/portfolio/british-education/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/portfolio/</loc>
+    <loc>http://localhost:1313/portfolio/bukhari-nikkah/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/portfolio/shopzy-pos/</loc>
+    <loc>http://localhost:1313/portfolio/checkology/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/portfolio/wefaq/</loc>
+    <loc>http://localhost:1313/portfolio/deepfunding/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/portfolio/widoxsports/</loc>
+    <loc>http://localhost:1313/portfolio/erp-equations/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hsn-dev.github.io/portfolio/zameen/</loc>
+    <loc>http://localhost:1313/portfolio/hakagrill/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/humwell/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/itsteps/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/jarvis/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/mqmart/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/nestzone/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/optix/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/planstreet/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/shopzy-pos/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/sns-medical-copy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/stichpoint/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/wefaq/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/widoxsports/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/zameen/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

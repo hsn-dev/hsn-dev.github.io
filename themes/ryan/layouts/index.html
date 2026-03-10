@@ -21,8 +21,9 @@
   {{ range $section := $sections }}
 
     {{ $partialPath := $section | printf "partials/%s-section.html" }}
+    {{ $partialName := $section | printf "%s-section.html" }}
     {{ if templates.Exists ( $partialPath ) }}
-      {{ partial $partialPath $page }}
+      {{ partial $partialName $page }}
     {{ end }}
 
   {{ end }}

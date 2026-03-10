@@ -126,7 +126,7 @@ out = "fadeOut" #ANIMATION OUT: [ rotateOutUpLeft, rollOut, jackOutTheBox, fadeO
 
 # Portfolio Settings
 [params.portfolio]
-homeNumOfItems = 12
+homeNumOfItems = 120
 [[params.portfolio.filters]]
 name = "CMS"
 slug = "wordpress"
@@ -142,3 +142,9 @@ filename = "sitemap.xml"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
+
+# Markup Settings
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

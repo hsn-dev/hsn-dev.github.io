@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hassan Resume</title>
-    <link>https://hsn-dev.github.io/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Hassan Resume</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Sep 2020 12:49:27 +0600</lastBuildDate>
-    <atom:link href="https://hsn-dev.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Travel</title>
-      <link>https://hsn-dev.github.io/categories/travel/</link>
+      <link>http://localhost:1313/categories/travel/</link>
       <pubDate>Wed, 16 Sep 2020 12:49:27 +0600</pubDate>
-      <guid>https://hsn-dev.github.io/categories/travel/</guid>
+      <guid>http://localhost:1313/categories/travel/</guid>
       <description></description>
     </item>
     <item>
       <title>Documentation</title>
-      <link>https://hsn-dev.github.io/categories/documentation/</link>
+      <link>http://localhost:1313/categories/documentation/</link>
       <pubDate>Wed, 15 Jul 2020 12:49:27 +0600</pubDate>
-      <guid>https://hsn-dev.github.io/categories/documentation/</guid>
+      <guid>http://localhost:1313/categories/documentation/</guid>
       <description></description>
     </item>
     <item>
       <title>Development</title>
-      <link>https://hsn-dev.github.io/categories/development/</link>
+      <link>http://localhost:1313/categories/development/</link>
       <pubDate>Sun, 12 Jul 2020 12:49:27 +0600</pubDate>
-      <guid>https://hsn-dev.github.io/categories/development/</guid>
+      <guid>http://localhost:1313/categories/development/</guid>
       <description></description>
     </item>
   </channel>

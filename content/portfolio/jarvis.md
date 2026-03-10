@@ -7,6 +7,16 @@ image: portfolio/jarvis.jpg
 button_url: https://staging-bayut-sa.jarvisempg.com/admin/login
 ---
 
+<video controls width="100%">
+  <source src="portfolio/jarvis-video-01.mp4" type="video/mp4">
+</video>
+<br><br>
+
+<video controls width="100%">
+  <source src="portfolio/jarvis-video-02.mp4" type="video/mp4">
+</video>
+<br><br>
+
 <!-- So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.
 
 Forfeited you engrossed but gay sometimes explained. Another as studied it to evident. Merry sense given he be arise. Conduct at an replied removal an amongst. Remaining determine few her two cordially admitting old.

@@ -8,13 +8,14 @@
 ### param "buttons" - Buttons, icon class you can find here https://ionicons.com/v4/
 
 main:
-  bgimage: "images/bg2.jpeg"
-  photo: "images/bw-square.jpeg"
+  bgimage: "images/p11.jpeg"
+  photo: "images/p12-1.jpeg"
   name: "Hassan Farooq"
   typed:
-    - text: "Software Engineer"
-    - text: "Fullstack Developer"
-    - text: "Freelancer"
+    - text: "Senior Software Engineer"
+    - text: "Problem Solver"
+    - text: "Turning Ideas Into Code"
+    - text: "Building Scalable Solutions"
     
   social:
     - title: "Facebook"
@@ -40,7 +41,7 @@ main:
   buttons:
     - title: "Download CV"
       icon: "ion-ios-cloud-download"
-      url: "/attachments/hasan_cv.pdf"
+      url: "/attachments/Hassan-Farooq-CV.pdf"
     - title: "Contact Me"
       icon: "ion-paper-airplane"
       url: "mailto:hsnfrq.47@gmail.com"

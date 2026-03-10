@@ -17,7 +17,7 @@ about:
       value: "24"
 
     - label: "Experience"
-      value: "2+ years"
+      value: "3+ years"
 
     - label: "Residence"
       value: "Lahore, Pakistan"
@@ -177,30 +177,37 @@ resume:
     title: "Experience"
     icon: "ion-briefcase"
     items:
-      - year: "10.2022 - Present"
-        role: "Software Engineer"
-        company: "Dubizzle Labs"
+      - year: "07.2025 - Present"
+        role: "Senior Software Engineer"
+        company: "I2c Inc."
         text: ""
         active: 1
         h_line: 1
 
+      - year: "09.2024 - 06.2025"
+        role: "PHP/Laravel Developer"
+        company: "Kwanso"
+        text: ""
+        active: 0
+        h_line: 1
+
+      - year: "10.2022 - 04.2024"
+        role: "Ruby on Rails Developer"
+        company: "Dubizzle Labs"
+        text: ""
+        active: 0
+        h_line: 1
+
       - year: "08.2022 - 10.2022"
-        role: "Software Engineer"
+        role: "Ruby on Rails Developer"
         company: "Bitsclan IT Solutions"
         text: ""
         active: 0
         h_line: 1
 
       - year: "12.2021 - 07.2022"
-        role: "PHP/Laravel Developer"
+        role: "Backend Engineer"
         company: "Digital Window Information Technology"
-        text: ""
-        active: 0
-        h_line: 0
-
-      - year: "08.2022 - 10.2020"
-        role: "Web Developer"
-        company: "Cybus Solutions Ltd"
         text: ""
         active: 0
         h_line: 0
@@ -239,7 +246,7 @@ skills:
           value: "75" #0-100 progress in %
 
         - label: "SPA (React & Vue)"
-          value: "65" #0-100 progress in %
+          value: "70" #0-100 progress in %
 
         - label: "Wordpress"
           value: "75" #0-100 progress in %
@@ -248,13 +255,13 @@ skills:
           # value: "70" #0-100 progress in %
 
         - label: "PHP/Laravel"
-          value: "85" #0-100 progress in %
-
-        - label: "Ruby on Rails"
           value: "80" #0-100 progress in %
 
+        - label: "Ruby on Rails"
+          value: "85" #0-100 progress in %
+
         - label: "Python Scripting"
-          value: "70" #0-100 progress in %
+          value: "75" #0-100 progress in %
 
     - type: "dotted" #skills progress type - default, dotted, circles, list
       title: "IT Skills"
