@@ -337,7 +337,7 @@ img.lazy-loaded {
  
 .video-wrapper {
   position: relative;
-  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+  background: #000;
   border-radius: 8px;
   overflow: hidden;
   aspect-ratio: 16 / 9;
@@ -347,38 +347,6 @@ img.lazy-loaded {
   height: 100%;
   object-fit: cover;
   display: block;
-}
-.video-wrapper::before {
-  content: '';
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 80px;
-  height: 80px;
-  background: rgba(255,255,255,0.9);
-  border-radius: 50%;
-  z-index: 1;
-  pointer-events: none;
-  transition: opacity 0.3s, transform 0.3s;
-}
-.video-wrapper::after {
-  content: '';
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-40%, -50%);
-  border-style: solid;
-  border-width: 15px 0 15px 25px;
-  border-color: transparent transparent transparent #1a1a2e;
-  z-index: 2;
-  pointer-events: none;
-  transition: opacity 0.3s;
-}
-.video-wrapper.playing::before,
-.video-wrapper.playing::after {
-  opacity: 0;
-  pointer-events: none;
 }
 </style>
 
@@ -392,17 +360,6 @@ img.lazy-loaded {
       wrapper.className = 'video-wrapper';
       video.parentNode.insertBefore(wrapper, video);
       wrapper.appendChild(video);
-      
-      
-      video.addEventListener('play', function() {
-        wrapper.classList.add('playing');
-      });
-      video.addEventListener('pause', function() {
-        wrapper.classList.remove('playing');
-      });
-      video.addEventListener('ended', function() {
-        wrapper.classList.remove('playing');
-      });
     }
   });
 
