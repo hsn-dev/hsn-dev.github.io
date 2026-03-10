@@ -7,7 +7,7 @@ image: portfolio/adepsi-cover.png
 button_url: https://adepsi.com
 ---
 
-<video controls width="100%">
+<video controls width="100%" preload="none">
   <source src="portfolio/adepsi-video.mp4" type="video/mp4">
 </video>
 <br><br>

@@ -12,182 +12,182 @@
       <link>https://hsn-dev.github.io/portfolio/adepsi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hsn-dev.github.io/portfolio/adepsi/</guid>
-      <description>&lt;video controls width=&#34;100%&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/adepsi-video.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;portfolio/adepsi-fullpage.png&#34; alt=&#34;adepsi-fullpage&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;</description>
+      <description>&lt;video controls width=&#34;100%&#34; preload=&#34;none&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/adepsi-video.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;img data-src=&#34;portfolio/adepsi-fullpage.png&#34; alt=&#34;adepsi-fullpage&#34; class=&#34;lazy-img&#34; /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Affinity</title>
       <link>https://hsn-dev.github.io/portfolio/affinity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hsn-dev.github.io/portfolio/affinity/</guid>
-      <description>&lt;video controls width=&#34;100%&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/affinity-video.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;</description>
+      <description>&lt;video controls width=&#34;100%&#34; preload=&#34;none&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/affinity-video.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;</description>
     </item>
     <item>
       <title>Alliance Advising</title>
       <link>https://hsn-dev.github.io/portfolio/alliance-advising/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hsn-dev.github.io/portfolio/alliance-advising/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;portfolio/alliance-fullpage.jpg&#34; alt=&#34;Full Page View&#34; loading=&#34;lazy&#34; /&gt;&#xA;&lt;img src=&#34;portfolio/alliance-01.jpg&#34; alt=&#34;Alliance 01&#34; loading=&#34;lazy&#34; /&gt;&#xA;&lt;img src=&#34;portfolio/alliance-02.jpg&#34; alt=&#34;Alliance 02&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img data-src=&#34;portfolio/alliance-fullpage.jpg&#34; alt=&#34;Full Page View&#34; class=&#34;lazy-img&#34; /&gt;&#xA;&lt;img data-src=&#34;portfolio/alliance-01.jpg&#34; alt=&#34;Alliance 01&#34; class=&#34;lazy-img&#34; /&gt;&#xA;&lt;img data-src=&#34;portfolio/alliance-02.jpg&#34; alt=&#34;Alliance 02&#34; class=&#34;lazy-img&#34; /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amanoon</title>
       <link>https://hsn-dev.github.io/portfolio/amanoon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hsn-dev.github.io/portfolio/amanoon/</guid>
-      <description>&lt;video controls width=&#34;100%&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/amanoon-video.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;portfolio/amanoon-fullpage.png&#34; alt=&#34;amanoon-fullpage&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;</description>
+      <description>&lt;video controls width=&#34;100%&#34; preload=&#34;none&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/amanoon-video.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;img data-src=&#34;portfolio/amanoon-fullpage.png&#34; alt=&#34;amanoon-fullpage&#34; class=&#34;lazy-img&#34; /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Arkan Al Hadid</title>
       <link>https://hsn-dev.github.io/portfolio/arkanalhadid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hsn-dev.github.io/portfolio/arkanalhadid/</guid>
-      <description>&lt;video controls width=&#34;100%&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/alhadid-video.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;portfolio/alhadid-fullpage.png&#34; alt=&#34;alhadid-fullpage&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;</description>
+      <description>&lt;video controls width=&#34;100%&#34; preload=&#34;none&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/alhadid-video.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;img data-src=&#34;portfolio/alhadid-fullpage.png&#34; alt=&#34;alhadid-fullpage&#34; class=&#34;lazy-img&#34; /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bestcampus</title>
       <link>https://hsn-dev.github.io/portfolio/bestcampus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hsn-dev.github.io/portfolio/bestcampus/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;portfolio/bestcampus-01.png&#34; alt=&#34;bestcampus-01&#34; loading=&#34;lazy&#34; /&gt;&#xA;&lt;img src=&#34;portfolio/bestcampus-02.png&#34; alt=&#34;bestcampus-02&#34; loading=&#34;lazy&#34; /&gt;&#xA;&lt;img src=&#34;portfolio/bestcampus-03.png&#34; alt=&#34;bestcampus-03&#34; loading=&#34;lazy&#34; /&gt;&#xA;&lt;img src=&#34;portfolio/bestcampus-04.png&#34; alt=&#34;bestcampus-04&#34; loading=&#34;lazy&#34; /&gt;&#xA;&lt;img src=&#34;portfolio/bestcampus-05.png&#34; alt=&#34;bestcampus-05&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img data-src=&#34;portfolio/bestcampus-01.png&#34; alt=&#34;bestcampus-01&#34; class=&#34;lazy-img&#34; /&gt;&#xA;&lt;img data-src=&#34;portfolio/bestcampus-02.png&#34; alt=&#34;bestcampus-02&#34; class=&#34;lazy-img&#34; /&gt;&#xA;&lt;img data-src=&#34;portfolio/bestcampus-03.png&#34; alt=&#34;bestcampus-03&#34; class=&#34;lazy-img&#34; /&gt;&#xA;&lt;img data-src=&#34;portfolio/bestcampus-04.png&#34; alt=&#34;bestcampus-04&#34; class=&#34;lazy-img&#34; /&gt;&#xA;&lt;img data-src=&#34;portfolio/bestcampus-05.png&#34; alt=&#34;bestcampus-05&#34; class=&#34;lazy-img&#34; /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>blueskyocean.co.uk</title>
       <link>https://hsn-dev.github.io/portfolio/blueskyocean/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hsn-dev.github.io/portfolio/blueskyocean/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;portfolio/bluesky-fullpage.jpg&#34; alt=&#34;Full Page View&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img data-src=&#34;portfolio/bluesky-fullpage.jpg&#34; alt=&#34;Full Page View&#34; class=&#34;lazy-img&#34; /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>britisheducationawards.co.uk</title>
       <link>https://hsn-dev.github.io/portfolio/british-education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hsn-dev.github.io/portfolio/british-education/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;portfolio/british-fullpage.jpg&#34; alt=&#34;Full Page View&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img data-src=&#34;portfolio/british-fullpage.jpg&#34; alt=&#34;Full Page View&#34; class=&#34;lazy-img&#34; /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bukhari Nikkah</title>
       <link>https://hsn-dev.github.io/portfolio/bukhari-nikkah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hsn-dev.github.io/portfolio/bukhari-nikkah/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;portfolio/bkn-fullpage.png&#34; alt=&#34;bkn-fullpage&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img data-src=&#34;portfolio/bkn-fullpage.png&#34; alt=&#34;bkn-fullpage&#34; class=&#34;lazy-img&#34; /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Checkology</title>
       <link>https://hsn-dev.github.io/portfolio/checkology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hsn-dev.github.io/portfolio/checkology/</guid>
-      <description>&lt;video controls width=&#34;100%&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/checkology-video.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;portfolio/checkology-fullpage.png&#34; alt=&#34;checkology-fullpage&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;</description>
+      <description>&lt;video controls width=&#34;100%&#34; preload=&#34;none&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/checkology-video.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;img data-src=&#34;portfolio/checkology-fullpage.png&#34; alt=&#34;checkology-fullpage&#34; class=&#34;lazy-img&#34; /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Deep Funding AI</title>
       <link>https://hsn-dev.github.io/portfolio/deepfunding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hsn-dev.github.io/portfolio/deepfunding/</guid>
-      <description>&lt;video controls width=&#34;100%&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/deeplearning-video.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;portfolio/deeplearning-fullpage.png&#34; alt=&#34;deeplearning-fullpage&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;</description>
+      <description>&lt;video controls width=&#34;100%&#34; preload=&#34;none&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/deeplearning-video.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;img data-src=&#34;portfolio/deeplearning-fullpage.png&#34; alt=&#34;deeplearning-fullpage&#34; class=&#34;lazy-img&#34; /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ERP Equations</title>
       <link>https://hsn-dev.github.io/portfolio/erp-equations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hsn-dev.github.io/portfolio/erp-equations/</guid>
-      <description>&lt;video controls width=&#34;100%&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/erp-video.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;portfolio/erp-fullpage.png&#34; alt=&#34;erp-fullpage&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;</description>
+      <description>&lt;video controls width=&#34;100%&#34; preload=&#34;none&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/erp-video.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;img data-src=&#34;portfolio/erp-fullpage.png&#34; alt=&#34;erp-fullpage&#34; class=&#34;lazy-img&#34; /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Haka Grill</title>
       <link>https://hsn-dev.github.io/portfolio/hakagrill/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hsn-dev.github.io/portfolio/hakagrill/</guid>
-      <description>&lt;video controls width=&#34;100%&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/hakagrill-video.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;portfolio/hakagrill-fullpage.png&#34; alt=&#34;hakagrill-fullpage&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;</description>
+      <description>&lt;video controls width=&#34;100%&#34; preload=&#34;none&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/hakagrill-video.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;img data-src=&#34;portfolio/hakagrill-fullpage.png&#34; alt=&#34;hakagrill-fullpage&#34; class=&#34;lazy-img&#34; /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Humwell</title>
       <link>https://hsn-dev.github.io/portfolio/humwell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hsn-dev.github.io/portfolio/humwell/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;portfolio/humwell-fullpage.jpg&#34; alt=&#34;Full Page View&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img data-src=&#34;portfolio/humwell-fullpage.jpg&#34; alt=&#34;Full Page View&#34; class=&#34;lazy-img&#34; /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Itsteps</title>
       <link>https://hsn-dev.github.io/portfolio/itsteps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hsn-dev.github.io/portfolio/itsteps/</guid>
-      <description>&lt;video controls width=&#34;100%&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/itsteps-video.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;portfolio/itsteps-fullpage.png&#34; alt=&#34;itsteps-fullpage&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;</description>
+      <description>&lt;video controls width=&#34;100%&#34; preload=&#34;none&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/itsteps-video.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;img data-src=&#34;portfolio/itsteps-fullpage.png&#34; alt=&#34;itsteps-fullpage&#34; class=&#34;lazy-img&#34; /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jarvis CRM</title>
       <link>https://hsn-dev.github.io/portfolio/jarvis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hsn-dev.github.io/portfolio/jarvis/</guid>
-      <description>&lt;video controls width=&#34;100%&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/jarvis-video-01.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;video controls width=&#34;100%&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/jarvis-video-02.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;!-- So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.&#xD;&#xA;&#xD;&#xA;Forfeited you engrossed but gay sometimes explained. Another as studied it to evident. Merry sense given he be arise. Conduct at an replied removal an amongst. Remaining determine few her two cordially admitting old.&#xD;&#xA;&#xD;&#xA;^Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque suscipit.&#xD;&#xA;&#xD;&#xA;Tiled say decay spoil now walls meant house. My mr interest thoughts screened of outweigh removing. Evening society musical besides inhabit ye my. Lose hill well up will he over on. Increasing sufficient everything men him admiration unpleasing.&#xD;&#xA;&#xD;&#xA;* Greatest properly off ham exercise all.&#xD;&#xA;* Unsatiable invitation its possession nor off.&#xD;&#xA;* All difficulty estimating unreserved increasing the solicitude.&#xD;&#xA;&#xD;&#xA;Unpleasant astonished an diminution up partiality. Noisy an their of meant. Death means up civil do an offer wound of. --&gt;</description>
+      <description>&lt;video controls width=&#34;100%&#34; preload=&#34;none&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/jarvis-video-01.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;video controls width=&#34;100%&#34; preload=&#34;none&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/jarvis-video-02.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;!-- So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.&#xD;&#xA;&#xD;&#xA;Forfeited you engrossed but gay sometimes explained. Another as studied it to evident. Merry sense given he be arise. Conduct at an replied removal an amongst. Remaining determine few her two cordially admitting old.&#xD;&#xA;&#xD;&#xA;^Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque suscipit.&#xD;&#xA;&#xD;&#xA;Tiled say decay spoil now walls meant house. My mr interest thoughts screened of outweigh removing. Evening society musical besides inhabit ye my. Lose hill well up will he over on. Increasing sufficient everything men him admiration unpleasing.&#xD;&#xA;&#xD;&#xA;* Greatest properly off ham exercise all.&#xD;&#xA;* Unsatiable invitation its possession nor off.&#xD;&#xA;* All difficulty estimating unreserved increasing the solicitude.&#xD;&#xA;&#xD;&#xA;Unpleasant astonished an diminution up partiality. Noisy an their of meant. Death means up civil do an offer wound of. --&gt;</description>
     </item>
     <item>
       <title>MQ Mart</title>
       <link>https://hsn-dev.github.io/portfolio/mqmart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hsn-dev.github.io/portfolio/mqmart/</guid>
-      <description>&lt;video controls width=&#34;100%&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/mqmart-video.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;portfolio/mqmart-fullpage.png&#34; alt=&#34;mqmart-fullpage&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;</description>
+      <description>&lt;video controls width=&#34;100%&#34; preload=&#34;none&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/mqmart-video.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;img data-src=&#34;portfolio/mqmart-fullpage.png&#34; alt=&#34;mqmart-fullpage&#34; class=&#34;lazy-img&#34; /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nestzone</title>
       <link>https://hsn-dev.github.io/portfolio/nestzone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hsn-dev.github.io/portfolio/nestzone/</guid>
-      <description>&lt;video controls width=&#34;100%&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/nestzone-video.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;portfolio/nestzone-fullpage.png&#34; alt=&#34;nestzone-fullpage&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;</description>
+      <description>&lt;video controls width=&#34;100%&#34; preload=&#34;none&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/nestzone-video.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;img data-src=&#34;portfolio/nestzone-fullpage.png&#34; alt=&#34;nestzone-fullpage&#34; class=&#34;lazy-img&#34; /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Optix</title>
       <link>https://hsn-dev.github.io/portfolio/optix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hsn-dev.github.io/portfolio/optix/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;portfolio/optix-fullpage.jpeg&#34; alt=&#34;Full Page View&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img data-src=&#34;portfolio/optix-fullpage.jpeg&#34; alt=&#34;Full Page View&#34; class=&#34;lazy-img&#34; /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Planstreet</title>
       <link>https://hsn-dev.github.io/portfolio/planstreet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hsn-dev.github.io/portfolio/planstreet/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;portfolio/planstreet-fullpage.jpg&#34; alt=&#34;Full Page View&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img data-src=&#34;portfolio/planstreet-fullpage.jpg&#34; alt=&#34;Full Page View&#34; class=&#34;lazy-img&#34; /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Shopzy POS</title>
       <link>https://hsn-dev.github.io/portfolio/shopzy-pos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hsn-dev.github.io/portfolio/shopzy-pos/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;portfolio/shopzy-pos-01.png&#34; alt=&#34;shopzy-pos-01&#34; loading=&#34;lazy&#34; /&gt;&#xA;&lt;img src=&#34;portfolio/shopzy-pos-02.png&#34; alt=&#34;shopzy-pos-02&#34; loading=&#34;lazy&#34; /&gt;&#xA;&lt;img src=&#34;portfolio/shopzy-pos-03.png&#34; alt=&#34;shopzy-pos-03&#34; loading=&#34;lazy&#34; /&gt;&#xA;&lt;img src=&#34;portfolio/shopzy-pos-04.png&#34; alt=&#34;shopzy-pos-04&#34; loading=&#34;lazy&#34; /&gt;&#xA;&lt;img src=&#34;portfolio/shopzy-pos-05.png&#34; alt=&#34;shopzy-pos-05&#34; loading=&#34;lazy&#34; /&gt;&#xA;&lt;img src=&#34;portfolio/shopzy-pos-06.png&#34; alt=&#34;shopzy-pos-06&#34; loading=&#34;lazy&#34; /&gt;&#xA;&lt;img src=&#34;portfolio/shopzy-pos-07.png&#34; alt=&#34;shopzy-pos-07&#34; loading=&#34;lazy&#34; /&gt;&#xA;&lt;img src=&#34;portfolio/shopzy-pos-08.png&#34; alt=&#34;shopzy-pos-08&#34; loading=&#34;lazy&#34; /&gt;&#xA;&lt;img src=&#34;portfolio/shopzy-pos-09.png&#34; alt=&#34;shopzy-pos-09&#34; loading=&#34;lazy&#34; /&gt;&#xA;&lt;img src=&#34;portfolio/shopzy-pos-10.png&#34; alt=&#34;shopzy-pos-10&#34; loading=&#34;lazy&#34; /&gt;&#xA;&lt;img src=&#34;portfolio/shopzy-pos-11.png&#34; alt=&#34;shopzy-pos-11&#34; loading=&#34;lazy&#34; /&gt;&#xA;&lt;img src=&#34;portfolio/shopzy-pos-12.png&#34; alt=&#34;shopzy-pos-12&#34; loading=&#34;lazy&#34; /&gt;&#xA;&lt;img src=&#34;portfolio/shopzy-pos-13.png&#34; alt=&#34;shopzy-pos-13&#34; loading=&#34;lazy&#34; /&gt;&#xA;&lt;img src=&#34;portfolio/shopzy-pos-14.png&#34; alt=&#34;shopzy-pos-14&#34; loading=&#34;lazy&#34; /&gt;&#xA;&lt;img src=&#34;portfolio/shopzy-pos-15.png&#34; alt=&#34;shopzy-pos-15&#34; loading=&#34;lazy&#34; /&gt;&#xA;&lt;img src=&#34;portfolio/shopzy-pos-16.png&#34; alt=&#34;shopzy-pos-16&#34; loading=&#34;lazy&#34; /&gt;&#xA;&lt;img src=&#34;portfolio/shopzy-pos-17.png&#34; alt=&#34;shopzy-pos-17&#34; loading=&#34;lazy&#34; /&gt;&#xA;&lt;img src=&#34;portfolio/shopzy-pos-18.png&#34; alt=&#34;shopzy-pos-18&#34; loading=&#34;lazy&#34; /&gt;&#xA;&lt;img src=&#34;portfolio/shopzy-pos-19.png&#34; alt=&#34;shopzy-pos-19&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img data-src=&#34;portfolio/shopzy-pos-01.png&#34; alt=&#34;shopzy-pos-01&#34; class=&#34;lazy-img&#34; /&gt;&#xA;&lt;img data-src=&#34;portfolio/shopzy-pos-02.png&#34; alt=&#34;shopzy-pos-02&#34; class=&#34;lazy-img&#34; /&gt;&#xA;&lt;img data-src=&#34;portfolio/shopzy-pos-03.png&#34; alt=&#34;shopzy-pos-03&#34; class=&#34;lazy-img&#34; /&gt;&#xA;&lt;img data-src=&#34;portfolio/shopzy-pos-04.png&#34; alt=&#34;shopzy-pos-04&#34; class=&#34;lazy-img&#34; /&gt;&#xA;&lt;img data-src=&#34;portfolio/shopzy-pos-05.png&#34; alt=&#34;shopzy-pos-05&#34; class=&#34;lazy-img&#34; /&gt;&#xA;&lt;img data-src=&#34;portfolio/shopzy-pos-06.png&#34; alt=&#34;shopzy-pos-06&#34; class=&#34;lazy-img&#34; /&gt;&#xA;&lt;img data-src=&#34;portfolio/shopzy-pos-07.png&#34; alt=&#34;shopzy-pos-07&#34; class=&#34;lazy-img&#34; /&gt;&#xA;&lt;img data-src=&#34;portfolio/shopzy-pos-08.png&#34; alt=&#34;shopzy-pos-08&#34; class=&#34;lazy-img&#34; /&gt;&#xA;&lt;img data-src=&#34;portfolio/shopzy-pos-09.png&#34; alt=&#34;shopzy-pos-09&#34; class=&#34;lazy-img&#34; /&gt;&#xA;&lt;img data-src=&#34;portfolio/shopzy-pos-10.png&#34; alt=&#34;shopzy-pos-10&#34; class=&#34;lazy-img&#34; /&gt;&#xA;&lt;img data-src=&#34;portfolio/shopzy-pos-11.png&#34; alt=&#34;shopzy-pos-11&#34; class=&#34;lazy-img&#34; /&gt;&#xA;&lt;img data-src=&#34;portfolio/shopzy-pos-12.png&#34; alt=&#34;shopzy-pos-12&#34; class=&#34;lazy-img&#34; /&gt;&#xA;&lt;img data-src=&#34;portfolio/shopzy-pos-13.png&#34; alt=&#34;shopzy-pos-13&#34; class=&#34;lazy-img&#34; /&gt;&#xA;&lt;img data-src=&#34;portfolio/shopzy-pos-14.png&#34; alt=&#34;shopzy-pos-14&#34; class=&#34;lazy-img&#34; /&gt;&#xA;&lt;img data-src=&#34;portfolio/shopzy-pos-15.png&#34; alt=&#34;shopzy-pos-15&#34; class=&#34;lazy-img&#34; /&gt;&#xA;&lt;img data-src=&#34;portfolio/shopzy-pos-16.png&#34; alt=&#34;shopzy-pos-16&#34; class=&#34;lazy-img&#34; /&gt;&#xA;&lt;img data-src=&#34;portfolio/shopzy-pos-17.png&#34; alt=&#34;shopzy-pos-17&#34; class=&#34;lazy-img&#34; /&gt;&#xA;&lt;img data-src=&#34;portfolio/shopzy-pos-18.png&#34; alt=&#34;shopzy-pos-18&#34; class=&#34;lazy-img&#34; /&gt;&#xA;&lt;img data-src=&#34;portfolio/shopzy-pos-19.png&#34; alt=&#34;shopzy-pos-19&#34; class=&#34;lazy-img&#34; /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>SNS Medical</title>
       <link>https://hsn-dev.github.io/portfolio/sns-medical-copy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hsn-dev.github.io/portfolio/sns-medical-copy/</guid>
-      <description>&lt;video controls width=&#34;100%&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/sns-medical-video.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;portfolio/sns-medical-fullpage.png&#34; alt=&#34;sns-medical-fullpage&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;</description>
+      <description>&lt;video controls width=&#34;100%&#34; preload=&#34;none&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/sns-medical-video.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;img data-src=&#34;portfolio/sns-medical-fullpage.png&#34; alt=&#34;sns-medical-fullpage&#34; class=&#34;lazy-img&#34; /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stich Point</title>
       <link>https://hsn-dev.github.io/portfolio/stichpoint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hsn-dev.github.io/portfolio/stichpoint/</guid>
-      <description>&lt;video controls width=&#34;100%&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/stp-video.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;</description>
+      <description>&lt;video controls width=&#34;100%&#34; preload=&#34;none&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/stp-video.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;</description>
     </item>
     <item>
       <title>Wefaq Consultancy App</title>
       <link>https://hsn-dev.github.io/portfolio/wefaq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hsn-dev.github.io/portfolio/wefaq/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;portfolio/wefaq.png&#34; alt=&#34;Cover&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;&#xA;&lt;!-- So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.&#xD;&#xA;&#xD;&#xA;Forfeited you engrossed but gay sometimes explained. Another as studied it to evident. Merry sense given he be arise. Conduct at an replied removal an amongst. Remaining determine few her two cordially admitting old.&#xD;&#xA;&#xD;&#xA;^Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque suscipit.&#xD;&#xA;&#xD;&#xA;Tiled say decay spoil now walls meant house. My mr interest thoughts screened of outweigh removing. Evening society musical besides inhabit ye my. Lose hill well up will he over on. Increasing sufficient everything men him admiration unpleasing.&#xD;&#xA;&#xD;&#xA;* Greatest properly off ham exercise all.&#xD;&#xA;* Unsatiable invitation its possession nor off.&#xD;&#xA;* All difficulty estimating unreserved increasing the solicitude.&#xD;&#xA;&#xD;&#xA;Unpleasant astonished an diminution up partiality. Noisy an their of meant. Death means up civil do an offer wound of. --&gt;</description>
+      <description>&lt;p&gt;&lt;img data-src=&#34;portfolio/wefaq.png&#34; alt=&#34;Cover&#34; class=&#34;lazy-img&#34; /&gt;&lt;/p&gt;&#xA;&lt;!-- So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.&#xD;&#xA;&#xD;&#xA;Forfeited you engrossed but gay sometimes explained. Another as studied it to evident. Merry sense given he be arise. Conduct at an replied removal an amongst. Remaining determine few her two cordially admitting old.&#xD;&#xA;&#xD;&#xA;^Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque suscipit.&#xD;&#xA;&#xD;&#xA;Tiled say decay spoil now walls meant house. My mr interest thoughts screened of outweigh removing. Evening society musical besides inhabit ye my. Lose hill well up will he over on. Increasing sufficient everything men him admiration unpleasing.&#xD;&#xA;&#xD;&#xA;* Greatest properly off ham exercise all.&#xD;&#xA;* Unsatiable invitation its possession nor off.&#xD;&#xA;* All difficulty estimating unreserved increasing the solicitude.&#xD;&#xA;&#xD;&#xA;Unpleasant astonished an diminution up partiality. Noisy an their of meant. Death means up civil do an offer wound of. --&gt;</description>
     </item>
     <item>
       <title>Widox Sportswear</title>
       <link>https://hsn-dev.github.io/portfolio/widoxsports/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hsn-dev.github.io/portfolio/widoxsports/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;portfolio/widox-fullpage.jpg&#34; alt=&#34;Full Page View&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img data-src=&#34;portfolio/widox-fullpage.jpg&#34; alt=&#34;Full Page View&#34; class=&#34;lazy-img&#34; /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zameen.com</title>
       <link>https://hsn-dev.github.io/portfolio/zameen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hsn-dev.github.io/portfolio/zameen/</guid>
-      <description>&lt;video controls width=&#34;100%&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/zameen-video-01.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;video controls width=&#34;100%&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/zameen-video-02.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;!-- So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.&#xD;&#xA;&#xD;&#xA;Forfeited you engrossed but gay sometimes explained. Another as studied it to evident. Merry sense given he be arise. Conduct at an replied removal an amongst. Remaining determine few her two cordially admitting old.&#xD;&#xA;&#xD;&#xA;^Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque suscipit.&#xD;&#xA;&#xD;&#xA;Tiled say decay spoil now walls meant house. My mr interest thoughts screened of outweigh removing. Evening society musical besides inhabit ye my. Lose hill well up will he over on. Increasing sufficient everything men him admiration unpleasing.&#xD;&#xA;&#xD;&#xA;* Greatest properly off ham exercise all.&#xD;&#xA;* Unsatiable invitation its possession nor off.&#xD;&#xA;* All difficulty estimating unreserved increasing the solicitude.&#xD;&#xA;&#xD;&#xA;Unpleasant astonished an diminution up partiality. Noisy an their of meant. Death means up civil do an offer wound of. --&gt;</description>
+      <description>&lt;video controls width=&#34;100%&#34; preload=&#34;none&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/zameen-video-01.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;video controls width=&#34;100%&#34; preload=&#34;none&#34;&gt;&#xD;&#xA;  &lt;source src=&#34;portfolio/zameen-video-02.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;!-- So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.&#xD;&#xA;&#xD;&#xA;Forfeited you engrossed but gay sometimes explained. Another as studied it to evident. Merry sense given he be arise. Conduct at an replied removal an amongst. Remaining determine few her two cordially admitting old.&#xD;&#xA;&#xD;&#xA;^Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque suscipit.&#xD;&#xA;&#xD;&#xA;Tiled say decay spoil now walls meant house. My mr interest thoughts screened of outweigh removing. Evening society musical besides inhabit ye my. Lose hill well up will he over on. Increasing sufficient everything men him admiration unpleasing.&#xD;&#xA;&#xD;&#xA;* Greatest properly off ham exercise all.&#xD;&#xA;* Unsatiable invitation its possession nor off.&#xD;&#xA;* All difficulty estimating unreserved increasing the solicitude.&#xD;&#xA;&#xD;&#xA;Unpleasant astonished an diminution up partiality. Noisy an their of meant. Death means up civil do an offer wound of. --&gt;</description>
     </item>
   </channel>
 </rss>

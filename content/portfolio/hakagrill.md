@@ -7,7 +7,7 @@ image: portfolio/hakagrill-cover.png
 button_url: https://hakkagrill.ca
 ---
 
-<video controls width="100%">
+<video controls width="100%" preload="none">
   <source src="portfolio/hakagrill-video.mp4" type="video/mp4">
 </video>
 <br><br>

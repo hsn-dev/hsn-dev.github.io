@@ -7,7 +7,7 @@ image: portfolio/erp-cover.png
 button_url: https://erpequations.com
 ---
 
-<video controls width="100%">
+<video controls width="100%" preload="none">
   <source src="portfolio/erp-video.mp4" type="video/mp4">
 </video>
 <br><br>

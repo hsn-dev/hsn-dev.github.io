@@ -7,7 +7,7 @@ image: portfolio/itsteps-cover.png
 button_url: https://itsteps.org
 ---
 
-<video controls width="100%">
+<video controls width="100%" preload="none">
   <source src="portfolio/itsteps-video.mp4" type="video/mp4">
 </video>
 <br><br>

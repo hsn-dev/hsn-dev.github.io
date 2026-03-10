@@ -7,7 +7,7 @@ image: portfolio/amanoon-cover.png
 button_url: https://amanoon.ae
 ---
 
-<video controls width="100%">
+<video controls width="100%" preload="none">
   <source src="portfolio/amanoon-video.mp4" type="video/mp4">
 </video>
 <br><br>

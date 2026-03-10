@@ -1,0 +1,177 @@
+<script src="{{ "plugins/jQuery/jquery.min.js" | absURL }}"></script>
+
+{{ if .Site.Params.sidebar.search }}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.6.2/fuse.min.js" integrity="sha512-Nqw1tH3mpavka9cQCc5zWWEZNfIPdOYyQFjlV1NvflEtQ0/XI6ZQ+H/D3YgJdqSUJlMLAPRj/oXlaHCFbFCjoQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="{{ "plugins/search/simple-search.js" | absURL }}"></script>
+{{ end }}
+
+<script src="{{ "plugins/validate/jquery.validate.min.js" | absURL }}"></script>
+<script src="{{ "plugins/owl-carousel/owl.carousel.js" | absURL }}"></script>
+<script src="{{ "plugins/magnific-popup/magnific-popup.min.js" | absURL }}"></script>
+<script src="{{ "plugins/slimscroll/jquery.slimscroll.js" | absURL }}"></script>
+<script src="{{ "plugins/imagesloaded/imagesloaded.pkgd.min.js" | absURL }}"></script>
+<script src="{{ "plugins/isotope/isotope.pkgd.js" | absURL }}"></script>
+<script src="{{ "plugins/typed/typed.js" | absURL }}"></script>
+<script src="{{ "plugins/rrssb/rrssb.js" | absURL }}"></script>
+
+{{ with .Site.Params.googleMaps.key }}
+{{ "<!-- Google map api -->" | safeHTML }}
+<script src="https://maps.googleapis.com/maps/api/js?key={{ . }}"></script>
+{{ end }}
+
+{{ $formhandler := resources.Get "js/form-handler.js" | minify }}
+<script src="{{ $formhandler.Permalink }}"></script>
+
+{{ $script := resources.Get "js/common.js" | minify }}
+<script src="{{ $script.Permalink }}"></script>
+
+<!-- Lazy loading styles -->
+<style>
+img.lazy-img {
+  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+  min-height: 150px;
+}
+@keyframes shimmer {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+img.lazy-loaded {
+  animation: fadeIn 0.3s ease-in;
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* Video placeholder styling */
+.video-wrapper {
+  position: relative;
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+  border-radius: 8px;
+  overflow: hidden;
+  aspect-ratio: 16 / 9;
+}
+.video-wrapper video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.video-wrapper::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80px;
+  height: 80px;
+  background: rgba(255,255,255,0.9);
+  border-radius: 50%;
+  z-index: 1;
+  pointer-events: none;
+  transition: opacity 0.3s, transform 0.3s;
+}
+.video-wrapper::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-40%, -50%);
+  border-style: solid;
+  border-width: 15px 0 15px 25px;
+  border-color: transparent transparent transparent #1a1a2e;
+  z-index: 2;
+  pointer-events: none;
+  transition: opacity 0.3s;
+}
+.video-wrapper.playing::before,
+.video-wrapper.playing::after {
+  opacity: 0;
+  pointer-events: none;
+}
+</style>
+
+<!-- Lazy loading for popup images and content -->
+<script>
+(function() {
+  // Wrap all videos in video-wrapper for placeholder styling
+  document.querySelectorAll('video').forEach(function(video) {
+    if (!video.parentElement.classList.contains('video-wrapper')) {
+      var wrapper = document.createElement('div');
+      wrapper.className = 'video-wrapper';
+      video.parentNode.insertBefore(wrapper, video);
+      wrapper.appendChild(video);
+      
+      // Hide play button when video plays
+      video.addEventListener('play', function() {
+        wrapper.classList.add('playing');
+      });
+      video.addEventListener('pause', function() {
+        wrapper.classList.remove('playing');
+      });
+      video.addEventListener('ended', function() {
+        wrapper.classList.remove('playing');
+      });
+    }
+  });
+
+  // IntersectionObserver for lazy loading
+  var lazyImageObserver;
+  
+  if ('IntersectionObserver' in window) {
+    lazyImageObserver = new IntersectionObserver(function(entries) {
+      entries.forEach(function(entry) {
+        if (entry.isIntersecting) {
+          var lazyImage = entry.target;
+          if (lazyImage.dataset.src) {
+            lazyImage.src = lazyImage.dataset.src;
+            lazyImage.removeAttribute('data-src');
+            lazyImage.classList.remove('lazy-img');
+            lazyImage.classList.add('lazy-loaded');
+          }
+          lazyImageObserver.unobserve(lazyImage);
+        }
+      });
+    }, {
+      rootMargin: '200px 0px'
+    });
+
+    // Observe all lazy images on page load
+    document.querySelectorAll('img[data-src]').forEach(function(lazyImage) {
+      lazyImageObserver.observe(lazyImage);
+    });
+  } else {
+    // Fallback for browsers without IntersectionObserver
+    document.querySelectorAll('img[data-src]').forEach(function(img) {
+      img.src = img.dataset.src;
+    });
+  }
+
+  // Load lazy images/videos when popup opens
+  $(document).on('click', '.has-popup-media', function(e) {
+    var target = $(this).attr('href');
+    if (target && target.startsWith('#')) {
+      var popup = $(target);
+      
+      // Load all lazy images in popup
+      popup.find('img[data-src]').each(function() {
+        var img = $(this);
+        img.attr('src', img.attr('data-src'));
+        img.removeAttr('data-src');
+        img.removeClass('lazy-img').addClass('lazy-loaded');
+      });
+      
+      // Load lazy video sources
+      popup.find('source[data-src]').each(function() {
+        var source = $(this);
+        source.attr('src', source.attr('data-src'));
+        source.removeAttr('data-src');
+        source.parent()[0].load();
+      });
+    }
+  });
+})();
+</script>

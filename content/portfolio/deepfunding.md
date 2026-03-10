@@ -7,7 +7,7 @@ image: portfolio/deeplearning-cover.png
 button_url: https://deepfunding.ai
 ---
 
-<video controls width="100%">
+<video controls width="100%" preload="none">
   <source src="portfolio/deeplearning-video.mp4" type="video/mp4">
 </video>
 <br><br>

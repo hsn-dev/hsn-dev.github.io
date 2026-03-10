@@ -274,7 +274,7 @@
 			<div class="row border-line-v">
 				<div class="col col-m-12 col-t-12 col-d-12">
 					<div class="post-box">
-						<p><img src="portfolio/wefaq.png" alt="Cover" loading="lazy" /></p>
+						<p><img data-src="portfolio/wefaq.png" alt="Cover" class="lazy-img" /></p>
 <!-- So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.
 
 Forfeited you engrossed but gay sometimes explained. Another as studied it to evident. Merry sense given he be arise. Conduct at an replied removal an amongst. Remaining determine few her two cordially admitting old.
@@ -323,6 +323,156 @@ Unpleasant astonished an diminution up partiality. Noisy an their of meant. Deat
 
 
 <script src="https://hsn-dev.github.io/js/common.min.js"></script>
+
+
+<style>
+img.lazy-img {
+  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+  min-height: 150px;
+}
+@keyframes shimmer {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+img.lazy-loaded {
+  animation: fadeIn 0.3s ease-in;
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+ 
+.video-wrapper {
+  position: relative;
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+  border-radius: 8px;
+  overflow: hidden;
+  aspect-ratio: 16 / 9;
+}
+.video-wrapper video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.video-wrapper::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80px;
+  height: 80px;
+  background: rgba(255,255,255,0.9);
+  border-radius: 50%;
+  z-index: 1;
+  pointer-events: none;
+  transition: opacity 0.3s, transform 0.3s;
+}
+.video-wrapper::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-40%, -50%);
+  border-style: solid;
+  border-width: 15px 0 15px 25px;
+  border-color: transparent transparent transparent #1a1a2e;
+  z-index: 2;
+  pointer-events: none;
+  transition: opacity 0.3s;
+}
+.video-wrapper.playing::before,
+.video-wrapper.playing::after {
+  opacity: 0;
+  pointer-events: none;
+}
+</style>
+
+
+<script>
+(function() {
+  
+  document.querySelectorAll('video').forEach(function(video) {
+    if (!video.parentElement.classList.contains('video-wrapper')) {
+      var wrapper = document.createElement('div');
+      wrapper.className = 'video-wrapper';
+      video.parentNode.insertBefore(wrapper, video);
+      wrapper.appendChild(video);
+      
+      
+      video.addEventListener('play', function() {
+        wrapper.classList.add('playing');
+      });
+      video.addEventListener('pause', function() {
+        wrapper.classList.remove('playing');
+      });
+      video.addEventListener('ended', function() {
+        wrapper.classList.remove('playing');
+      });
+    }
+  });
+
+  
+  var lazyImageObserver;
+  
+  if ('IntersectionObserver' in window) {
+    lazyImageObserver = new IntersectionObserver(function(entries) {
+      entries.forEach(function(entry) {
+        if (entry.isIntersecting) {
+          var lazyImage = entry.target;
+          if (lazyImage.dataset.src) {
+            lazyImage.src = lazyImage.dataset.src;
+            lazyImage.removeAttribute('data-src');
+            lazyImage.classList.remove('lazy-img');
+            lazyImage.classList.add('lazy-loaded');
+          }
+          lazyImageObserver.unobserve(lazyImage);
+        }
+      });
+    }, {
+      rootMargin: '200px 0px'
+    });
+
+    
+    document.querySelectorAll('img[data-src]').forEach(function(lazyImage) {
+      lazyImageObserver.observe(lazyImage);
+    });
+  } else {
+    
+    document.querySelectorAll('img[data-src]').forEach(function(img) {
+      img.src = img.dataset.src;
+    });
+  }
+
+  
+  $(document).on('click', '.has-popup-media', function(e) {
+    var target = $(this).attr('href');
+    if (target && target.startsWith('#')) {
+      var popup = $(target);
+      
+      
+      popup.find('img[data-src]').each(function() {
+        var img = $(this);
+        img.attr('src', img.attr('data-src'));
+        img.removeAttr('data-src');
+        img.removeClass('lazy-img').addClass('lazy-loaded');
+      });
+      
+      
+      popup.find('source[data-src]').each(function() {
+        var source = $(this);
+        source.attr('src', source.attr('data-src'));
+        source.removeAttr('data-src');
+        source.parent()[0].load();
+      });
+    }
+  });
+})();
+</script>
 
 </body>
 

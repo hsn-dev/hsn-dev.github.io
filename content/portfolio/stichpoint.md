@@ -7,7 +7,7 @@ image: portfolio/stp-cover.png
 button_url: https://stitchpointglobal.com
 ---
 
-<video controls width="100%">
+<video controls width="100%" preload="none">
   <source src="portfolio/stp-video.mp4" type="video/mp4">
 </video>
 <br><br>

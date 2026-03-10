@@ -7,12 +7,12 @@ image: portfolio/jarvis.jpg
 button_url: https://staging-bayut-sa.jarvisempg.com/admin/login
 ---
 
-<video controls width="100%">
+<video controls width="100%" preload="none">
   <source src="portfolio/jarvis-video-01.mp4" type="video/mp4">
 </video>
 <br><br>
 
-<video controls width="100%">
+<video controls width="100%" preload="none">
   <source src="portfolio/jarvis-video-02.mp4" type="video/mp4">
 </video>
 <br><br>

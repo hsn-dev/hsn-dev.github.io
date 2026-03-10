@@ -7,7 +7,7 @@ image: portfolio/alhadid-cover.png
 button_url: https://arkanalhadid.com
 ---
 
-<video controls width="100%">
+<video controls width="100%" preload="none">
   <source src="portfolio/alhadid-video.mp4" type="video/mp4">
 </video>
 <br><br>

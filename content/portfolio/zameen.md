@@ -7,12 +7,12 @@ image: portfolio/zameen.jpg
 button_url: https://www.zameen.com/
 ---
 
-<video controls width="100%">
+<video controls width="100%" preload="none">
   <source src="portfolio/zameen-video-01.mp4" type="video/mp4">
 </video>
 <br><br>
 
-<video controls width="100%">
+<video controls width="100%" preload="none">
   <source src="portfolio/zameen-video-02.mp4" type="video/mp4">
 </video>
 <br><br>
